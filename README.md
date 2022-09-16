@@ -1,4 +1,4 @@
-# 10-homework
+# teamMemberGenerator
 
 a project that will add team members to a website
 
