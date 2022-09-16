@@ -4,4 +4,6 @@ An app to be used for employers to add a team of employees to a website. Inputed
 
 ![Screenshot of project](/src/teamMemSS.png?raw=true "teamMemberGenerator")
 
+## Installation
+
 install by doing 'git clone ' and copying the ssh key in your vs code terminal (make sure to run npm i after you clone)!
